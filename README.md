@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/akakiev) and [GitLab](https://gitlab.com/baraban.s.v)
 
-- 📝 Sometimes I write scientific articles on [Scopus](https://www.scopus.com/)
+- 📝 Sometimes I write scientific articles on [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55975645000)
 
 - 💬 Ask me about **Flutter, Vue JS, Django**
 
@@ -16,12 +16,12 @@
 
 ### My Articles
 <!-- BLOG-POST-LIST:START -->
-- [Information technology of provision recommendations in emergency situations](https://proceedings.vntu.edu.ua/index.php/proc/article/view/15------2)
-- [Development of a progressive web application with a convolutional neural network for image recognition](https://doi.org/10.31649/1999-9941-2021-50-1-7-14------2)
+- [Information technology of provision recommendations in emergency situations](https://proceedings.vntu.edu.ua/index.php/proc/article/view/15)
+- [Development of a progressive web application with a convolutional neural network for image recognition](https://doi.org/10.31649/1999-9941-2021-50-1-7-14)
 - [
-Information technology in creating intelligent chatbots](https://doi.org/10.1117/12.2537415------2)
+Information technology in creating intelligent chatbots](https://doi.org/10.1117/12.2537415)
 - [
-Intelligent module of browser management system of IT-projects Trello](https://itce.vntu.edu.ua/index.php/itce/article/view/711------2)
+Intelligent module of browser management system of IT-projects Trello](https://itce.vntu.edu.ua/index.php/itce/article/view/711)
 <!-- BLOG-POST-LIST:END -->
 
 
