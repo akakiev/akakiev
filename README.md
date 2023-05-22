@@ -2,15 +2,16 @@
 
 <h3 align="center">Software developer with scientific background</h3>
 
-- 🔭 I have finished working on <a href ="https://gitlab.com/adam.fraczkowski/flutter_epack/-/tree/inAppWebView">Flutter App for BLE device</a>
+- 🔭 I am currently working on <a href ="https://gitlab.com/adam.fraczkowski/flutter_epack/-/tree/inAppWebView">Flutter App for BLE device</a>
 
-- 🌱 I’m currently learning **Python, Django, Flask, Flutter**
+- 🌱 I’m currently [learning python by building a blockchain cryptocurrency](https://www.udemy.com/course/learn-python-by-building-a-blockchain-cryptocurrency/) and [Vue - The Complete Guide (incl. Router & Composition API)
+](https://www.udemy.com/course/vuejs-2-the-complete-guide/)
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/akakiev) and [GitLab](https://gitlab.com/baraban.s.v)
 
 - 📝 Sometimes I write scientific articles on [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55975645000)
 
-- 💬 Ask me about **Python, Django, Flutter**
+- 💬 Ask me about **Python, Django, Flutter, Vue JS**
 
 - 📫 How to reach me: **akakieva@gmail.com**
 
