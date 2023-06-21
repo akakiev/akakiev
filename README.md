@@ -1,12 +1,11 @@
 <h2 align="center"> Hi, 👋 I'm Serhii Baraban </h2>
 
 <h3 align="center">Software developer with scientific background<br></h3>
-<h4 align="center">It means that I can not only write software for you, but also describe, how I did it.</h4>
+<h4 align="center">It means that I can not only write software for you, but also describe in publication, how I did it.</h4>
 
-- 🔭 I am currently working on <a href ="https://gitlab.com/adam.fraczkowski/flutter_epack/-/tree/inAppWebView">Flutter App for BLE device</a>
+- 🔭 I am currently working on [learning python by building a blockchain cryptocurrency](https://www.udemy.com/course/learn-python-by-building-a-blockchain-cryptocurrency/).
 
-- 🌱 I’m currently [learning python by building a blockchain cryptocurrency](https://www.udemy.com/course/learn-python-by-building-a-blockchain-cryptocurrency/) and [Vue - The Complete Guide (incl. Router & Composition API)
-](https://www.udemy.com/course/vuejs-2-the-complete-guide/)
+- 🌱 I have just finished working on <a href ="https://gitlab.com/adam.fraczkowski/flutter_epack/-/tree/inAppWebView">Flutter App for BLE device</a>.
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/akakiev) and [GitLab](https://gitlab.com/baraban.s.v)
 
