@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python, Django, Flutter, Vue JS**
 
-- 📫 How to reach me: **akakieva@gmail.com**
+- 📫 How to reach me: **baraban.serhii.v@gmail.com**
 
 ### My Articles
 <!-- BLOG-POST-LIST:START -->
